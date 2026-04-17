@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.env.*
+.vscode/
+.idea/
+
+frontend/node_modules/
+frontend/.next/
+frontend/.turbo/
+frontend/.vercel/
+frontend/pnpm-debug.log*
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
